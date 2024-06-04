@@ -3,6 +3,7 @@ package cn.wolfcode.web.generator;
 public class pathsConfig {
     public static String projectPath="D:\\java\\wolfcode-web\\";
     public static String createFile = "D:\\createFile";
+    public static int a;
 
 
 
